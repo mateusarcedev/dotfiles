@@ -122,9 +122,6 @@
     "*.sdb": "${capture}.${extname}-*",
     "*.s3db": "${capture}.${extname}-*"
   },
-  "remote.SSH.remotePlatform": {
-    "31.97.28.109": "linux"
-  },
   "workbench.productIconTheme": "fluent-icons",
   "chat.agentSessionsViewLocation": "single-view",
   "gitlens.graph.minimap.additionalTypes": [
