@@ -23,9 +23,8 @@
     "source.organizeLinkDefinitions": "always"
   },
   "terminal.integrated.gpuAcceleration": "off",
-  "terminal.integrated.windowsEnableConpty": false,
   "terminal.integrated.shellIntegration.enabled": false,
-  "terminal.integrated.fontFamily": "MesloLGS NF",
+  "terminal.integrated.fontFamily": "MesloLGS Nerd Font Mono",
   "terminal.integrated.fontSize": 14,
   "terminal.integrated.scrollback": 10000,
   "terminal.integrated.drawBoldTextInBrightColors": false,
@@ -71,7 +70,7 @@
     "unknown": "on"
   },
   "explorer.confirmDelete": false,
-  "security.workspace.trust.untrustedFiles": "open",
+  "security.workspace.trust.untrustedFiles": "prompt",
   "typescript.updateImportsOnFileMove.enabled": "always",
   "javascript.updateImportsOnFileMove.enabled": "always",
   "workbench.startupEditor": "none",
@@ -91,8 +90,7 @@
   },
   "editor.unicodeHighlight.allowedCharacters": {
     "": true,
-    " ": true,
-    " ": true
+    " ": true
   },
   "editor.unicodeHighlight.allowedLocales": {
     "pt-BR": true
